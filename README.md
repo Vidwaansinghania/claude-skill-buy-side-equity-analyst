@@ -1,3 +1,5 @@
+> This repo is archived. The skill now lives in [Claude-Skills](https://github.com/Vidwaansinghania/Claude-Skills/tree/main/skills/buy-side-equity-analyst), which is the copy that gets updated.
+
 # Buy-side equity analyst
 
 A Claude skill that runs fundamental equity research on a public company the way a buy-side analyst would, and ends with a capital allocation call rather than a description of the business.
